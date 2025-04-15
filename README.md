@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project presents a web-based solution to analyze real-world emotional experiences shared by women dealing with hormonal health issues—primarily Polycystic Ovary Syndrome (PCOS) and thyroid disorders. Leveraging Natural Language Processing (NLP) and machine learning, the project extracts insights from Reddit discussions and aligns user emotions with medically recommended remedies from trusted health platforms like Mayo Clinic and Healthline.
+This project presents a web-based solution to analyze real-world emotional experiences shared by women dealing with hormonal health issues, primarily Polycystic Ovary Syndrome (PCOS) and thyroid disorders. Leveraging Natural Language Processing (NLP) and machine learning, the project extracts insights from Reddit discussions and aligns user emotions with medically recommended remedies from trusted health platforms like Mayo Clinic and Healthline.
 
 ## Key Features
 
